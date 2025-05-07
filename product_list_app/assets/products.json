@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 59.99,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e",
+    "description": "Chất lượng cao, chống ồn chủ động."
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "price": 129.99,
+    "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12",
+    "description": "Theo dõi sức khỏe, thông báo cuộc gọi."
+  },
+  {
+    "id": 3,
+    "name": "Bluetooth Speaker",
+    "price": 39.99,
+    "image": "https://images.unsplash.com/photo-1589003077980-0f4b06786b92",
+    "description": "Âm thanh vòm, pin lâu."
+  },
+  {
+    "id": 4,
+    "name": "USB-C Charger",
+    "price": 19.99,
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+    "description": "Sạc nhanh, tương thích đa thiết bị."
+  },
+  {
+    "id": 5,
+    "name": "Laptop Stand",
+    "price": 29.99,
+    "image": "https://images.unsplash.com/photo-1614624532983-3546bcbb02d6",
+    "description": "Thiết kế gập gọn, chất liệu nhôm."
+  },
+  {
+    "id": 6,
+    "name": "Wireless Mouse",
+    "price": 24.99,
+    "image": "https://images.unsplash.com/photo-1613146069252-353cbed1e6ae",
+    "description": "Thiết kế công thái học, kết nối ổn định."
+  },
+  {
+    "id": 7,
+    "name": "Mechanical Keyboard",
+    "price": 89.99,
+    "image": "https://images.unsplash.com/photo-1587829746773-f6f7d8a36529",
+    "description": "Đèn RGB, phím cơ bền bỉ."
+  },
+  {
+    "id": 8,
+    "name": "Portable SSD 1TB",
+    "price": 149.99,
+    "image": "https://images.unsplash.com/photo-1590650046871-92c887180603",
+    "description": "Tốc độ truyền dữ liệu cao, nhỏ gọn."
+  },
+  {
+    "id": 9,
+    "name": "Webcam HD",
+    "price": 49.99,
+    "image": "https://images.unsplash.com/photo-1599058917212-d750089bc07e",
+    "description": "Hình ảnh sắc nét, mic tích hợp."
+  },
+  {
+    "id": 10,
+    "name": "Smart Light Bulb",
+    "price": 14.99,
+    "image": "https://images.unsplash.com/photo-1517991104123-1d56a6e81ed9",
+    "description": "Điều khiển qua app, đổi màu."
+  },
+  {
+    "id": 11,
+    "name": "Fitness Tracker",
+    "price": 34.99,
+    "image": "https://images.unsplash.com/photo-1576243345698-04e4b772d882",
+    "description": "Đếm bước chân, đo nhịp tim."
+  },
+  {
+    "id": 12,
+    "name": "Wireless Earbuds",
+    "price": 79.99,
+    "image": "https://images.unsplash.com/photo-1590650516494-0c8e4c27e8b7",
+    "description": "Chất âm tốt, hộp sạc tiện lợi."
+  },
+  {
+    "id": 13,
+    "name": "Gaming Mouse Pad",
+    "price": 19.99,
+    "image": "https://images.unsplash.com/photo-1622226587204-05c7b57194c0",
+    "description": "Bề mặt mịn, chống trượt."
+  },
+  {
+    "id": 14,
+    "name": "Smart Thermostat",
+    "price": 99.99,
+    "image": "https://images.unsplash.com/photo-1631106256834-9d6f6f9c08f0",
+    "description": "Điều chỉnh nhiệt độ thông minh."
+  },
+  {
+    "id": 15,
+    "name": "HDMI Cable 2m",
+    "price": 12.99,
+    "image": "https://images.unsplash.com/photo-1589115170765-14f2b3e9a2b0",
+    "description": "Hỗ trợ 4K, truyền tín hiệu ổn định."
+  },
+  {
+    "id": 16,
+    "name": "Portable Projector",
+    "price": 199.99,
+    "image": "https://images.unsplash.com/photo-1592903967143-3c75d1e70735",
+    "description": "Độ phân giải cao, dễ mang theo."
+  },
+  {
+    "id": 17,
+    "name": "Smart Doorbell",
+    "price": 89.99,
+    "image": "https://images.unsplash.com/photo-1629131655555-c6e897c58e73",
+    "description": "Camera HD, kết nối Wi-Fi."
+  },
+  {
+    "id": 18,
+    "name": "External Battery Pack",
+    "price": 29.99,
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+    "description": "Dung lượng 10000mAh, sạc nhanh."
+  },
+  {
+    "id": 19,
+    "name": "Noise-Canceling Earphones",
+    "price": 69.99,
+    "image": "https://images.unsplash.com/photo-1618969478408-7c7e8b99e58e",
+    "description": "Chất âm trung thực, thoải mái."
+  },
+  {
+    "id": 20,
+    "name": "Smart Plug",
+    "price": 24.99,
+    "image": "https://images.unsplash.com/photo-1599749157079-e37fd2253d3d",
+    "description": "Điều khiển thiết bị qua app."
+  },
+  {
+    "id": 21,
+    "name": "4K Monitor 27 inch",
+    "price": 299.99,
+    "image": "https://images.unsplash.com/photo-1586216647177-8d4a38552621",
+    "description": "Màn hình sắc nét, góc nhìn rộng."
+  },
+  {
+    "id": 22,
+    "name": "Wireless Router",
+    "price": 59.99,
+    "image": "https://images.unsplash.com/photo-1591815302320-7e346f96d372",
+    "description": "Tốc độ cao, phủ sóng rộng."
+  }
+]
